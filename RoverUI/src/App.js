@@ -88,10 +88,10 @@ const Dashboard = () => {
         <div className="logo">
           <img
             src={ASTRA_LOGO}
-            alt="ASTRA"
+            alt="TARA"
             style={{ height: '40px', width: '40px', objectFit: 'cover', borderRadius: '50%', background: 'white', padding: '2px' }}
           />
-          ASTRA MARK II
+         TARA MARK II
         </div>
         <div className="topbar-stats">
           <div className="stat-item">
